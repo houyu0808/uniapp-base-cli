@@ -1,0 +1,11 @@
+{
+  "id": "base-cli",
+  "name": "base-cli",
+  "displayName": "base-cli",
+  "version": "0.0.9",
+  "description": "base-cli",
+  "keywords": [
+    "基础框架"
+],
+	"repository": ""
+}

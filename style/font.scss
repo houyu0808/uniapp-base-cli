@@ -1,0 +1,88 @@
+/* 字体大小 */
+.font-s12{
+	font-size: 24rpx;
+}
+.font-s13 {
+	font-size: 26rpx;
+}
+.font-s14 {
+	font-size: 28rpx;
+}
+.font-s15{
+	font-size: 30rpx;
+}
+.font-s16 {
+	font-size: 32rpx;
+}
+
+.font-s18 {
+	font-size: 36rpx;
+}
+
+.font-s20 {
+	font-size: 40rpx;
+}
+
+/* 文字重量 */
+.font-wnormal {
+	font-weight: 400;
+}
+
+.font-wmedium {
+	font-weight: 500;
+}
+
+.font-wbold {
+	font-weight: 700;
+}
+
+.font-wbolder {
+	font-weight: 900;
+}
+
+/* 字体颜色 */
+.font-c99{
+	color: #999999;
+}
+.font-c66{
+	color: #666666;
+}
+.font-c33{
+	color: #333333;
+}
+.font-c8e{
+	color: #8E8E8E;
+}
+.font-cff{
+	color: #ffffff;
+}
+.font-c7d{
+	color: #7D7D7D;
+}
+.font-success {
+	color: rgba(41, 157, 50, 1);
+}
+
+.font-primary {
+	color: rgba(6, 134, 243, 1);
+}
+
+.font-warn {
+	color: rgba(249, 111, 23, 1);
+}
+
+.font-error {
+	color: rgba(225, 37, 27, 1);
+}
+/* 文字对齐 */
+.font-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
